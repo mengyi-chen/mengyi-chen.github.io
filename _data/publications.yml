@@ -1,0 +1,45 @@
+main:
+
+  - title: "Learning Ab Initio Phase-Field Models"
+    authors: <strong>Mengyi Chen</strong>, Peichen Zhong, Zihan Zhang, Qianxiao Li
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2610.01432, 2026.
+    pdf: https://arxiv.org/abs/2610.01432
+    page: https://mlds-nus.github.io/ab-initio-phase-field-models/
+    highlight: true
+    image: ./assets/img/pubs/2610.01432.png
+
+  - title: "Interfacial Melting as a Thermodynamic Indicator of Solid-State Synthesizability"
+    authors: Zihan Zhang*, <strong>Mengyi Chen*</strong>, Qianxiao Li, Peichen Zhong
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2606.22885, 2026.
+    pdf: https://arxiv.org/abs/2606.22885
+    image: ./assets/img/pubs/2606.22885.png
+
+  - title: "Learning Permutation-Invariant Macroscopic Dynamics"
+    authors: Zhichao Han, <strong>Mengyi Chen</strong>, Qianxiao Li
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2605.30812
+    image: ./assets/img/pubs/2605.30812.png
+
+  - title: "Scalable Learning of Macroscopic Stochastic Dynamics"
+    authors: <strong>Mengyi Chen</strong>, Pengru Huang, Kostya S. Novoselov, Qianxiao Li
+    conference_short: PRM
+    conference: <strong>Physical Review Materials</strong>, 10(3):033805, 2026.
+    pdf: https://arxiv.org/abs/2511.12842
+    image: ./assets/img/pubs/2511.12842.png
+
+  - title: "Learning Macroscopic Dynamics from Partial Microscopic Observations"
+    authors: <strong>Mengyi Chen</strong>, Qianxiao Li
+    conference_short: NeurIPS
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2410.23938
+    image: ./assets/img/pubs/2410.23938.png
+
+  - title: "A Predictive Machine Learning Force-Field Framework for Liquid Electrolyte Development"
+    authors: Sheng Gong, Yumin Zhang, Zhenliang Mu, Zhichen Pu, Hongyi Wang, Xu Han, Zhiao Yu, <strong>Mengyi Chen</strong>, Tianze Zheng, Zhi Wang, Lifei Chen, Zhenze Yang, Xiaojie Wu, Shaochen Shi, Weihao Gao, Wen Yan, Liang Xiang
+    conference_short: NMI
+    conference: <strong>Nature Machine Intelligence</strong>, 7(4):543–552, 2025.
+    pdf: https://doi.org/10.1038/s42256-025-01009-7
+    image: ./assets/img/pubs/2404.07181.png

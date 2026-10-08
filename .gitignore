@@ -1,0 +1,11 @@
+_site
+.sass-cache
+Gemfile.lock
+*.gem
+.DS_Store
+.jekyll-cache
+git-update.sh
+
+# personal drafts / raw files (not for the public repo)
+image.png
+CONTENT.md
