@@ -15,7 +15,7 @@ I am interested in machine learning for modeling the **macroscopic dynamics** an
 - 📅 **[Nov. 2026]** Will attend [RSC FIRST 2026: AI in Chemistry](https://www.rscfirst.org.cn/) in Xiamen, China.
 - 📄 **[Oct. 2026]** New preprint: [Learning ab initio phase-field models](https://arxiv.org/abs/2610.01432). Check out our [project page](https://mlds-nus.github.io/ab-initio-phase-field-models/)!
 - 📄 **[Jun. 2026]** New preprint: [Interfacial melting as a thermodynamic indicator of solid-state synthesizability](https://arxiv.org/abs/2606.22885).
-- 🎤 **[Jun. 2026]** Presented *Scalable Learning of Macroscopic Stochastic Dynamics* at [AI4X-Accelerate 2026](https://ai4x.cc/) in Singapore.
+- 🎤 **[Jun. 2026]** Gave a talk on *Scalable Learning of Macroscopic Stochastic Dynamics* at [AI4X-Accelerate 2026](https://ai4x.cc/) in Singapore.
 
 {% include_relative _includes/publications.md %}
 
