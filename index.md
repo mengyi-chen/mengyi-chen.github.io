@@ -8,7 +8,7 @@ I am currently a fourth-year Ph.D. student in Mathematics at the National Univer
 
 I am especially drawn to problems where machine learning can lead to real scientific discoveries.
 
-🎓 **I expect to graduate in mid-2027 and am open to research opportunities in both academia and industry.** Feel free to send me an email if you are interested in collaborations!
+🎓 **I expect to graduate in mid-2027 and am open to research opportunities in both academia and industry.** I am always happy to discuss research and potential collaborations.
 
 ## Research Interests
 
