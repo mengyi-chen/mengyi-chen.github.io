@@ -11,8 +11,8 @@ main:
 
   - title: "Interfacial Melting as a Thermodynamic Indicator of Solid-State Synthesizability"
     authors: Zihan Zhang*, <strong>Mengyi Chen*</strong>, Qianxiao Li, Peichen Zhong
-    conference_short: arXiv
-    conference: arXiv preprint arXiv:2606.22885, 2026.
+    conference_short: Nat. Commun.
+    conference: <strong>Nature Communications</strong>, in press, 2026.
     pdf: https://arxiv.org/abs/2606.22885
     image: ./assets/img/pubs/2606.22885.png
 

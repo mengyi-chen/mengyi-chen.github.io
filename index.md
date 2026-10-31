@@ -6,9 +6,15 @@ layout: homepage
 
 I am currently a fourth-year Ph.D. student in Mathematics at the National University of Singapore, advised by Prof. [Qianxiao Li](https://blog.nus.edu.sg/qianxiaoli/). I also work closely with Prof. [Peichen Zhong](https://cde.nus.edu.sg/mse/staff/peichen-zhong) from the Department of Materials Science and Engineering at NUS. I received my B.Sc. in Mathematics and Applied Mathematics from the University of Chinese Academy of Sciences in 2023.
 
-I am interested in machine learning for modeling the **macroscopic dynamics** and **thermodynamics** of complex systems, multiscale modeling, and AI for materials. I am especially drawn to problems where machine learning can lead to real scientific discoveries.
+I am especially drawn to problems where machine learning can lead to real scientific discoveries.
 
 🎓 **I expect to graduate in mid-2027 and am open to research opportunities in both academia and industry.** Feel free to send me an email if you are interested in collaborations!
+
+## Research Interests
+
+- **Machine learning for multiscale modeling**: methods for mesoscale and macroscale modeling of materials from microscopic data
+- **Thermodynamics of complex materials**: computing free energy and entropy for phase stability and synthesis
+- **Ab initio phase-field models**: phase transformations and microstructure evolution at realistic experimental scales and conditions
 
 ## News
 
